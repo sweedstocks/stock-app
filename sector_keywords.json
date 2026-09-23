@@ -1,0 +1,5 @@
+{
+  "semiconductor": ["chip", "semiconductor", "nvidia", "TSMC"],
+  "oil": ["oil", "crude", "OPEC", "barrel"],
+  "minerals": ["rare earth", "lithium", "mining", "critical minerals"]
+}

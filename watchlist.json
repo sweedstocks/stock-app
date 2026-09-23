@@ -1,0 +1,6 @@
+{
+  "USAR": { "buy_below_pct": 5, "sell_above_pct": 5 },
+  "KRMN": { "buy_below_pct": 5, "sell_above_pct": 5 },
+  "WTI":  { "buy_below_pct": 5, "sell_above_pct": 5 },
+  "CRML": { "buy_below_pct": 5, "sell_above_pct": 5 }
+}
